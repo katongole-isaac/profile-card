@@ -9,6 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://katongole-isaac.github.io/profile-card/",
   "keywords": [],
   "author": "",
   "license": "ISC",
